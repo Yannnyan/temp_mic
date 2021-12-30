@@ -1,1 +1,1 @@
-# temp_mic
+## This is a project with a temporary name
