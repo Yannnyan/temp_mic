@@ -1,4 +1,5 @@
 ## This is a project with a temporary name
+## the information below will help you write better programs in java, this is complex so try to learn it on the way as you need it.
 ### [Git tutorial](https://git-scm.com/docs/gittutorial)
 for more information and guidance for git click here: [wiki-Git](https://github.com/Yannnyan/temp_mic/wiki/Git-Guide)
 ### [Intellij-IDE](https://www.jetbrains.com/idea/download/#section=windows)
